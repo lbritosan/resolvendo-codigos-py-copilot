@@ -62,7 +62,7 @@ O que aprenderemos?
 
 <br>
 
-## 5 - Calculando Média de Notas 📚
+## [5 - Calculando Média de Notas](src/5.medias_notas.py) 📚
 
 Descrição: Agora vamos calcular a média de três notas fornecidas na entrada do usuário. 
 Uma dica é: Utilize operadores aritméticos para realizar o cálculo da média.
@@ -74,7 +74,7 @@ O que aprenderemos?
 
 <br>
 
-## 6 - Verificando Palíndromos 🔄
+## [6 - Verificando Palíndromos](src/6.verificando_palindromos.py) 🔄
 
 Descrição: Vamos testar se uma palavra é um palíndromo?! 
 Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.
